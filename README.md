@@ -30,10 +30,10 @@ Computer Engineering student focused on backend development, systems architectur
 
 | Repository | Description | Tech |
 | :--- | :--- | :---: |
+| 🤖 **[job-sentinel](https://github.com/IkedaWorks/job-sentinel)** | Cloud-automated Python bot via GitHub Actions that monitors emails via IMAP, classifies job opportunities using Gemini AI, and sends Telegram alerts. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | 🌳 **[knowledge-tree](https://github.com/IkedaWorks/knowledge-tree)** | Bilingual (PT/EN) knowledge architecture designed for scalability and algorithmic integration. | — |
 | 💣 **[minesweeper](https://github.com/IkedaWorks/minesweeper)** | Modular Minesweeper game implemented in C with a focus on clean code and structure. | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) |
 | ☕ **[ProjetoPOO_Cafeteria](https://github.com/IkedaWorks/ProjetoPOO_Cafeteria)** | Java application featuring a graphical interface for coffee shop order management. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-
 ---
 
 <div align="center">
